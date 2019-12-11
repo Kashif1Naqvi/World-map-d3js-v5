@@ -1,13 +1,29 @@
 
 .sphere {
-  fill:skyblue;
+  fill:#4242e4;
 }
 
 .country{
-  stroke:red;
-  stroke-width:2;
-  stroke-opacity:0.1;
+  /* fill:lightgreen; */
+  stroke:black;
+  stroke-width:1;
+  stroke-opacity:0.5;
 }
 .tooltips{
   position: absolute;
+  background-color: #fff;
+  opacity: .9;
+  width:auto;
+  text-align: center;
+  height: auto;
+}
+.tooltips ::after{
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left:-15px;
+  border-width:10px;
+  border-style: solid;
+  border-color: white transparent transparent  transparent;
 }

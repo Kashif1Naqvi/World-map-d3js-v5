@@ -21,7 +21,7 @@
                     "id": "242",
                     "properties": {
                         "name": "Fiji",
-                        "color":"#FAFAD2"
+                        "color":"#b453cf"
                     }
                 },
                 {
@@ -42,7 +42,7 @@
                     "id": "834",
                     "properties": {
                         "name": "Tanzania",
-                        "color":"#FAFAD2"
+                        "color":"#b453cf"
                     }
                 },
                 {
@@ -58,7 +58,7 @@
                     "id": "732",
                     "properties": {
                         "name": "W. Sahara",
-                        "color":"#FAFAD2"
+                        "color":"#b453cf"
                     }
                 },
                 {
@@ -303,7 +303,7 @@
                     "id": "398",
                     "properties": {
                         "name": "Kazakhstan",
-                        "color":"#FAFAD2"
+                        "color":"#d68978"
                     }
                 },
                 {
@@ -320,7 +320,7 @@
                     "id": "860",
                     "properties": {
                         "name": "Uzbekistan",
-                        "color":"#FAFAD2"
+                        "color":"#dbdb2e"
                     }
                 },
                 {
@@ -351,7 +351,7 @@
                     "id": "598",
                     "properties": {
                         "name": "Papua New Guinea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -429,7 +429,7 @@
                     "id": "360",
                     "properties": {
                         "name": "Indonesia",
-                        "color":"#FAFAD2"
+                        "color":"#f0c165"
                     }
                 },
                 {
@@ -455,7 +455,7 @@
                     "id": "032",
                     "properties": {
                         "name": "Argentina",
-                        "color":"#FAFAD2"
+                        "color":"#d0eb9d"
                     }
                 },
                 {
@@ -479,7 +479,7 @@
                     "id": "152",
                     "properties": {
                         "name": "Chile",
-                        "color":"#FAFAD2"
+                        "color":"#d4c544"
                     }
                 },
                 {
@@ -502,7 +502,7 @@
                     "id": "180",
                     "properties": {
                         "name": "Dem. Rep. Congo",
-                        "color":"#FAFAD2"
+                        "color":"#e01b77"
                     }
                 },
                 {
@@ -518,7 +518,7 @@
                     "id": "706",
                     "properties": {
                         "name": "Somalia",
-                        "color":"#FAFAD2"
+                        "color":"#e01b77"
                     }
                 },
                 {
@@ -536,7 +536,7 @@
                     "id": "404",
                     "properties": {
                         "name": "Kenya",
-                        "color":"#FAFAD2"
+                        "color":"#e01b77"
                     }
                 },
                 {
@@ -556,7 +556,7 @@
                     "id": "729",
                     "properties": {
                         "name": "Sudan",
-                        "color":"#FAFAD2"
+                        "color":"#931fe0"
                     }
                 },
                 {
@@ -573,7 +573,7 @@
                     "id": "148",
                     "properties": {
                         "name": "Chad",
-                        "color":"#FAFAD2"
+                        "color":"#931fe0"
                     }
                 },
                 {
@@ -587,7 +587,7 @@
                     "id": "332",
                     "properties": {
                         "name": "Haiti",
-                        "color":"#FAFAD2"
+                        "color":"#e3a94b"
                     }
                 },
                 {
@@ -601,7 +601,7 @@
                     "id": "214",
                     "properties": {
                         "name": "Dominican Rep.",
-                        "color":"#FAFAD2"
+                        "color":"#e6a030"
                     }
                 },
                 {
@@ -690,7 +690,7 @@
                     "id": "643",
                     "properties": {
                         "name": "Russia",
-                        "color":"#FAFAD2"
+                        "color":"#b7d678"
                     }
                 },
                 {
@@ -715,7 +715,7 @@
                     "id": "044",
                     "properties": {
                         "name": "Bahamas",
-                        "color":"#FAFAD2"
+                        "color":"coral"
                     }
                 },
                 {
@@ -728,7 +728,7 @@
                     "id": "238",
                     "properties": {
                         "name": "Falkland Is.",
-                        "color":"#FAFAD2"
+                        "color":"#f58a4c"
                     }
                 },
                 {
@@ -761,7 +761,7 @@
                     "id": "578",
                     "properties": {
                         "name": "Norway",
-                        "color":"#FAFAD2"
+                        "color":"#931fe0"
                     }
                 },
                 {
@@ -774,7 +774,7 @@
                     "id": "304",
                     "properties": {
                         "name": "Greenland",
-                        "color":"#FAFAD2"
+                        "color":"#8a9c68"
                     }
                 },
                 {
@@ -787,7 +787,7 @@
                     "id": "260",
                     "properties": {
                         "name": "Fr. S. Antarctic Lands",
-                        "color":"#FAFAD2"
+                        "color":"#4ecfbd"
                     }
                 },
                 {
@@ -801,7 +801,7 @@
                     "id": "626",
                     "properties": {
                         "name": "Timor-Leste",
-                        "color":"#FAFAD2"
+                        "color":"#4ecfbd"
                     }
                 },
                 {
@@ -823,7 +823,7 @@
                     "id": "710",
                     "properties": {
                         "name": "South Africa",
-                        "color":"#FAFAD2"
+                        "color":"#4ecfbd"
                     }
                 },
                 {
@@ -836,7 +836,7 @@
                     "id": "426",
                     "properties": {
                         "name": "Lesotho",
-                        "color":"#FAFAD2"
+                        "color":"#4ecfbd"
                     }
                 },
                 {
@@ -868,7 +868,7 @@
                     "id": "858",
                     "properties": {
                         "name": "Uruguay",
-                        "color":"#FAFAD2"
+                        "color":"#f0752e"
                     }
                 },
                 {
@@ -891,7 +891,7 @@
                     "id": "076",
                     "properties": {
                         "name": "Brazil",
-                        "color":"#FAFAD2"
+                        "color":"#f0cd35"
                     }
                 },
                 {
@@ -908,7 +908,7 @@
                     "id": "068",
                     "properties": {
                         "name": "Bolivia",
-                        "color":"#FAFAD2"
+                        "color":"#917b56"
                     }
                 },
                 {
@@ -926,7 +926,7 @@
                     "id": "604",
                     "properties": {
                         "name": "Peru",
-                        "color":"#FAFAD2"
+                        "color":"coral"
                     }
                 },
                 {
@@ -945,7 +945,7 @@
                     "id": "170",
                     "properties": {
                         "name": "Colombia",
-                        "color":"#FAFAD2"
+                        "color":"#d1b666"
                     }
                 },
                 {
@@ -961,7 +961,7 @@
                     "id": "591",
                     "properties": {
                         "name": "Panama",
-                        "color":"#FAFAD2"
+                        "color":"#ed840c"
                     }
                 },
                 {
@@ -977,7 +977,7 @@
                     "id": "188",
                     "properties": {
                         "name": "Costa Rica",
-                        "color":"#FAFAD2"
+                        "color":"#ebb30e"
                     }
                 },
                 {
@@ -993,7 +993,7 @@
                     "id": "558",
                     "properties": {
                         "name": "Nicaragua",
-                        "color":"#FAFAD2"
+                        "color":"#de9945"
                     }
                 },
                 {
@@ -1010,7 +1010,7 @@
                     "id": "340",
                     "properties": {
                         "name": "Honduras",
-                        "color":"#FAFAD2"
+                        "color":"#854f0d"
                     }
                 },
                 {
@@ -1025,7 +1025,7 @@
                     "id": "222",
                     "properties": {
                         "name": "El Salvador",
-                        "color":"#FAFAD2"
+                        "color":"#c49a66"
                     }
                 },
                 {
@@ -1043,7 +1043,7 @@
                     "id": "320",
                     "properties": {
                         "name": "Guatemala",
-                        "color":"#FAFAD2"
+                        "color":"#f58c0c"
                     }
                 },
                 {
@@ -1058,7 +1058,7 @@
                     "id": "084",
                     "properties": {
                         "name": "Belize",
-                        "color":"#FAFAD2"
+                        "color":"#e8d8be"
                     }
                 },
                 {
@@ -1074,7 +1074,7 @@
                     "id": "862",
                     "properties": {
                         "name": "Venezuela",
-                        "color":"#FAFAD2"
+                        "color":"#faa357"
                     }
                 },
                 {
@@ -1090,7 +1090,7 @@
                     "id": "328",
                     "properties": {
                         "name": "Guyana",
-                        "color":"#FAFAD2"
+                        "color":"#d6b50d"
                     }
                 },
                 {
@@ -1106,7 +1106,7 @@
                     "id": "740",
                     "properties": {
                         "name": "Suriname",
-                        "color":"#FAFAD2"
+                        "color":"coral"
                     }
                 },
                 {
@@ -1140,7 +1140,7 @@
                     "id": "250",
                     "properties": {
                         "name": "France",
-                        "color":"#FAFAD2"
+                        "color":"#a9ba70"
                     }
                 },
                 {
@@ -1155,7 +1155,7 @@
                     "id": "218",
                     "properties": {
                         "name": "Ecuador",
-                        "color":"#FAFAD2"
+                        "color":"#faa357"
                     }
                 },
                 {
@@ -1168,7 +1168,7 @@
                     "id": "630",
                     "properties": {
                         "name": "Puerto Rico",
-                        "color":"#FAFAD2"
+                        "color":"#c4913d"
                     }
                 },
                 {
@@ -1181,7 +1181,7 @@
                     "id": "388",
                     "properties": {
                         "name": "Jamaica",
-                        "color":"#FAFAD2"
+                        "color":"#fca417"
                     }
                 },
                 {
@@ -1194,7 +1194,7 @@
                     "id": "192",
                     "properties": {
                         "name": "Cuba",
-                        "color":"#FAFAD2"
+                        "color":"coral"
                     }
                 },
                 {
@@ -1210,7 +1210,7 @@
                     "id": "716",
                     "properties": {
                         "name": "Zimbabwe",
-                        "color":"#FAFAD2"
+                        "color":"#4493d4"
                     }
                 },
                 {
@@ -1226,7 +1226,7 @@
                     "id": "072",
                     "properties": {
                         "name": "Botswana",
-                        "color":"#FAFAD2"
+                        "color":"#18f285"
                     }
                 },
                 {
@@ -1243,7 +1243,7 @@
                     "id": "516",
                     "properties": {
                         "name": "Namibia",
-                        "color":"#FAFAD2"
+                        "color":"#c20e29"
                     }
                 },
                 {
@@ -1262,7 +1262,7 @@
                     "id": "686",
                     "properties": {
                         "name": "Senegal",
-                        "color":"#FAFAD2"
+                        "color":"#d66738"
                     }
                 },
                 {
@@ -1281,7 +1281,7 @@
                     "id": "466",
                     "properties": {
                         "name": "Mali",
-                        "color":"#FAFAD2"
+                        "color":"#4dbfb8"
                     }
                 },
                 {
@@ -1298,7 +1298,7 @@
                     "id": "478",
                     "properties": {
                         "name": "Mauritania",
-                        "color":"#FAFAD2"
+                        "color":"#072e2c"
                     }
                 },
                 {
@@ -1315,7 +1315,7 @@
                     "id": "204",
                     "properties": {
                         "name": "Benin",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1335,7 +1335,7 @@
                     "id": "562",
                     "properties": {
                         "name": "Niger",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1351,7 +1351,7 @@
                     "id": "566",
                     "properties": {
                         "name": "Nigeria",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1371,7 +1371,7 @@
                     "id": "120",
                     "properties": {
                         "name": "Cameroon",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1387,7 +1387,7 @@
                     "id": "768",
                     "properties": {
                         "name": "Togo",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1403,7 +1403,7 @@
                     "id": "288",
                     "properties": {
                         "name": "Ghana",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1421,7 +1421,7 @@
                     "id": "384",
                     "properties": {
                         "name": "Côte d'Ivoire",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1440,7 +1440,7 @@
                     "id": "324",
                     "properties": {
                         "name": "Guinea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1455,7 +1455,7 @@
                     "id": "624",
                     "properties": {
                         "name": "Guinea-Bissau",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1471,7 +1471,7 @@
                     "id": "430",
                     "properties": {
                         "name": "Liberia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1486,7 +1486,7 @@
                     "id": "694",
                     "properties": {
                         "name": "Sierra Leone",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1504,7 +1504,7 @@
                     "id": "854",
                     "properties": {
                         "name": "Burkina Faso",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1522,7 +1522,7 @@
                     "id": "140",
                     "properties": {
                         "name": "Central African Rep.",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1540,7 +1540,7 @@
                     "id": "178",
                     "properties": {
                         "name": "Congo",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1556,7 +1556,7 @@
                     "id": "266",
                     "properties": {
                         "name": "Gabon",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1571,7 +1571,7 @@
                     "id": "226",
                     "properties": {
                         "name": "Eq. Guinea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1591,7 +1591,7 @@
                     "id": "894",
                     "properties": {
                         "name": "Zambia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1606,7 +1606,7 @@
                     "id": "454",
                     "properties": {
                         "name": "Malawi",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1626,7 +1626,7 @@
                     "id": "508",
                     "properties": {
                         "name": "Mozambique",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1640,7 +1640,7 @@
                     "id": "748",
                     "properties": {
                         "name": "eSwatini",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1665,7 +1665,7 @@
                     "id": "024",
                     "properties": {
                         "name": "Angola",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1680,7 +1680,7 @@
                     "id": "108",
                     "properties": {
                         "name": "Burundi",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1699,7 +1699,7 @@
                     "id": "376",
                     "properties": {
                         "name": "Israel",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1714,7 +1714,7 @@
                     "id": "422",
                     "properties": {
                         "name": "Lebanon",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1727,7 +1727,7 @@
                     "id": "450",
                     "properties": {
                         "name": "Madagascar",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1741,7 +1741,7 @@
                     "id": "275",
                     "properties": {
                         "name": "Palestine",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1755,7 +1755,7 @@
                     "id": "270",
                     "properties": {
                         "name": "Gambia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1770,7 +1770,7 @@
                     "id": "788",
                     "properties": {
                         "name": "Tunisia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1790,7 +1790,7 @@
                     "id": "012",
                     "properties": {
                         "name": "Algeria",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1809,7 +1809,7 @@
                     "id": "400",
                     "properties": {
                         "name": "Jordan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1826,7 +1826,7 @@
                     "id": "784",
                     "properties": {
                         "name": "United Arab Emirates",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1840,7 +1840,7 @@
                     "id": "634",
                     "properties": {
                         "name": "Qatar",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1855,7 +1855,7 @@
                     "id": "414",
                     "properties": {
                         "name": "Kuwait",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1874,7 +1874,7 @@
                     "id": "368",
                     "properties": {
                         "name": "Iraq",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1898,7 +1898,7 @@
                     "id": "512",
                     "properties": {
                         "name": "Oman",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1918,7 +1918,7 @@
                     "id": "548",
                     "properties": {
                         "name": "Vanuatu",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1934,7 +1934,7 @@
                     "id": "116",
                     "properties": {
                         "name": "Cambodia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1952,7 +1952,7 @@
                     "id": "764",
                     "properties": {
                         "name": "Thailand",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1969,7 +1969,7 @@
                     "id": "418",
                     "properties": {
                         "name": "Laos",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -1987,7 +1987,7 @@
                     "id": "104",
                     "properties": {
                         "name": "Myanmar",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2003,7 +2003,7 @@
                     "id": "704",
                     "properties": {
                         "name": "Vietnam",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2029,7 +2029,7 @@
                     "id": "408",
                     "properties": {
                         "name": "North Korea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2043,7 +2043,7 @@
                     "id": "410",
                     "properties": {
                         "name": "South Korea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2057,7 +2057,7 @@
                     "id": "496",
                     "properties": {
                         "name": "Mongolia",
-                        "color":"#FAFAD2"
+                        "color":"#e8a31a"
                     }
                 },
                 {
@@ -2078,7 +2078,7 @@
                     "id": "356",
                     "properties": {
                         "name": "India",
-                        "color":"#FAFAD2"
+                        "color":"#faa900"
                     }
                 },
                 {
@@ -2093,7 +2093,7 @@
                     "id": "050",
                     "properties": {
                         "name": "Bangladesh",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2107,7 +2107,7 @@
                     "id": "064",
                     "properties": {
                         "name": "Bhutan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2121,7 +2121,7 @@
                     "id": "524",
                     "properties": {
                         "name": "Nepal",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2156,7 +2156,7 @@
                     "id": "004",
                     "properties": {
                         "name": "Afghanistan",
-                        "color":"#FAFAD2"
+                        "color":"#c25f62"
                     }
                 },
                 {
@@ -2172,7 +2172,7 @@
                     "id": "762",
                     "properties": {
                         "name": "Tajikistan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2188,7 +2188,7 @@
                     "id": "417",
                     "properties": {
                         "name": "Kyrgyzstan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2205,7 +2205,7 @@
                     "id": "795",
                     "properties": {
                         "name": "Turkmenistan",
-                        "color":"#FAFAD2"
+                        "color":"#78d693"
                     }
                 },
                 {
@@ -2227,7 +2227,7 @@
                     "id": "364",
                     "properties": {
                         "name": "Iran",
-                        "color":"#FAFAD2"
+                        "color":"#e0a93a"
                     }
                 },
                 {
@@ -2245,7 +2245,7 @@
                     "id": "760",
                     "properties": {
                         "name": "Syria",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2262,7 +2262,7 @@
                     "id": "051",
                     "properties": {
                         "name": "Armenia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2277,7 +2277,7 @@
                     "id": "752",
                     "properties": {
                         "name": "Sweden",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2294,7 +2294,7 @@
                     "id": "112",
                     "properties": {
                         "name": "Belarus",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2317,7 +2317,7 @@
                     "id": "804",
                     "properties": {
                         "name": "Ukraine",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2337,7 +2337,7 @@
                     "id": "616",
                     "properties": {
                         "name": "Poland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2356,7 +2356,7 @@
                     "id": "040",
                     "properties": {
                         "name": "Austria",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2375,7 +2375,7 @@
                     "id": "348",
                     "properties": {
                         "name": "Hungary",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2389,7 +2389,7 @@
                     "id": "498",
                     "properties": {
                         "name": "Moldova",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2408,7 +2408,7 @@
                     "id": "642",
                     "properties": {
                         "name": "Romania",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2425,7 +2425,7 @@
                     "id": "440",
                     "properties": {
                         "name": "Lithuania",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2442,7 +2442,7 @@
                     "id": "428",
                     "properties": {
                         "name": "Latvia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2457,7 +2457,7 @@
                     "id": "233",
                     "properties": {
                         "name": "Estonia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2480,7 +2480,7 @@
                     "id": "276",
                     "properties": {
                         "name": "Germany",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2498,7 +2498,7 @@
                     "id": "100",
                     "properties": {
                         "name": "Bulgaria",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2522,7 +2522,7 @@
                     "id": "300",
                     "properties": {
                         "name": "Greece",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2549,7 +2549,7 @@
                     "id": "792",
                     "properties": {
                         "name": "Turkey",
-                        "color":"#FAFAD2"
+                        "color":"#dbb669"
                     }
                 },
                 {
@@ -2566,7 +2566,7 @@
                     "id": "008",
                     "properties": {
                         "name": "Albania",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2584,7 +2584,7 @@
                     "id": "191",
                     "properties": {
                         "name": "Croatia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2600,7 +2600,7 @@
                     "id": "756",
                     "properties": {
                         "name": "Switzerland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2615,7 +2615,7 @@
                     "id": "442",
                     "properties": {
                         "name": "Luxembourg",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2632,7 +2632,7 @@
                     "id": "056",
                     "properties": {
                         "name": "Belgium",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2647,7 +2647,7 @@
                     "id": "528",
                     "properties": {
                         "name": "Netherlands",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2661,7 +2661,7 @@
                     "id": "620",
                     "properties": {
                         "name": "Portugal",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2677,7 +2677,7 @@
                     "id": "724",
                     "properties": {
                         "name": "Spain",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2691,7 +2691,7 @@
                     "id": "372",
                     "properties": {
                         "name": "Ireland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2704,7 +2704,7 @@
                     "id": "540",
                     "properties": {
                         "name": "New Caledonia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2739,7 +2739,7 @@
                     "id": "090",
                     "properties": {
                         "name": "Solomon Is.",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2759,7 +2759,7 @@
                     "id": "554",
                     "properties": {
                         "name": "New Zealand",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2779,7 +2779,7 @@
                     "id": "036",
                     "properties": {
                         "name": "Australia",
-                        "color":"#FAFAD2"
+                        "color":"#c28202"
                     }
                 },
                 {
@@ -2792,7 +2792,7 @@
                     "id": "144",
                     "properties": {
                         "name": "Sri Lanka",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2829,7 +2829,7 @@
                     "id": "156",
                     "properties": {
                         "name": "China",
-                        "color":"#FAFAD2"
+                        "color":"#ede215"
                     }
                 },
                 {
@@ -2842,7 +2842,7 @@
                     "id": "158",
                     "properties": {
                         "name": "Taiwan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2871,7 +2871,7 @@
                     "id": "380",
                     "properties": {
                         "name": "Italy",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2892,7 +2892,7 @@
                     "id": "208",
                     "properties": {
                         "name": "Denmark",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2913,7 +2913,7 @@
                     "id": "826",
                     "properties": {
                         "name": "United Kingdom",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2926,7 +2926,7 @@
                     "id": "352",
                     "properties": {
                         "name": "Iceland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2951,7 +2951,7 @@
                     "id": "031",
                     "properties": {
                         "name": "Azerbaijan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -2968,7 +2968,7 @@
                     "id": "268",
                     "properties": {
                         "name": "Georgia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3013,7 +3013,7 @@
                     "id": "608",
                     "properties": {
                         "name": "Philippines",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3037,7 +3037,7 @@
                     "id": "458",
                     "properties": {
                         "name": "Malaysia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3051,7 +3051,7 @@
                     "id": "096",
                     "properties": {
                         "name": "Brunei",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3068,7 +3068,7 @@
                     "id": "705",
                     "properties": {
                         "name": "Slovenia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3084,7 +3084,7 @@
                     "id": "246",
                     "properties": {
                         "name": "Finland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3101,7 +3101,7 @@
                     "id": "703",
                     "properties": {
                         "name": "Slovakia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3117,7 +3117,7 @@
                     "id": "203",
                     "properties": {
                         "name": "Czechia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3133,7 +3133,7 @@
                     "id": "232",
                     "properties": {
                         "name": "Eritrea",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3158,7 +3158,7 @@
                     "id": "392",
                     "properties": {
                         "name": "Japan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3173,7 +3173,7 @@
                     "id": "600",
                     "properties": {
                         "name": "Paraguay",
-                        "color":"#FAFAD2"
+                        "color":"#c28e3a"
                     }
                 },
                 {
@@ -3188,7 +3188,7 @@
                     "id": "887",
                     "properties": {
                         "name": "Yemen",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3210,7 +3210,7 @@
                     "id": "682",
                     "properties": {
                         "name": "Saudi Arabia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3260,7 +3260,7 @@
                     "id": "010",
                     "properties": {
                         "name": "Antarctica",
-                        "color":"#FAFAD2"
+                        "color":"#e67a7d"
                     }
                 },
                 {
@@ -3273,7 +3273,7 @@
                     ],
                     "properties": {
                         "name": "N. Cyprus",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3287,7 +3287,7 @@
                     "id": "196",
                     "properties": {
                         "name": "Cyprus",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3302,7 +3302,7 @@
                     "id": "504",
                     "properties": {
                         "name": "Morocco",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3319,7 +3319,7 @@
                     "id": "818",
                     "properties": {
                         "name": "Egypt",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3338,7 +3338,7 @@
                     "id": "434",
                     "properties": {
                         "name": "Libya",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3357,7 +3357,7 @@
                     "id": "231",
                     "properties": {
                         "name": "Ethiopia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3373,7 +3373,7 @@
                     "id": "262",
                     "properties": {
                         "name": "Djibouti",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3388,7 +3388,7 @@
                     ],
                     "properties": {
                         "name": "Somaliland",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3405,7 +3405,7 @@
                     "id": "800",
                     "properties": {
                         "name": "Uganda",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3421,7 +3421,7 @@
                     "id": "646",
                     "properties": {
                         "name": "Rwanda",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3436,7 +3436,7 @@
                     "id": "070",
                     "properties": {
                         "name": "Bosnia and Herz.",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3453,7 +3453,7 @@
                     "id": "807",
                     "properties": {
                         "name": "Macedonia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3473,7 +3473,7 @@
                     "id": "688",
                     "properties": {
                         "name": "Serbia",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3491,7 +3491,7 @@
                     "id": "499",
                     "properties": {
                         "name": "Montenegro",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3506,7 +3506,7 @@
                     ],
                     "properties": {
                         "name": "Kosovo",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3519,7 +3519,7 @@
                     "id": "780",
                     "properties": {
                         "name": "Trinidad and Tobago",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 },
                 {
@@ -3537,7 +3537,7 @@
                     "id": "728",
                     "properties": {
                         "name": "S. Sudan",
-                        "color":"#FAFAD2"
+                        "color":"#27dbd2"
                     }
                 }
             ]
