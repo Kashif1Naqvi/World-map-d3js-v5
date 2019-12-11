@@ -1,10 +1,13 @@
 
 .sphere {
-  fill:#4242e4;
+  fill:skyblue;
 }
 
 .country{
-  fill:lightgreen;
-  stroke:black;
+  stroke:red;
+  stroke-width:2;
   stroke-opacity:0.1;
+}
+.tooltips{
+  position: absolute;
 }
